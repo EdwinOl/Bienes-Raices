@@ -1,0 +1,7 @@
+.contenedor-anuncio{
+    flex-wrap: wrap;
+}
+.anuncio{
+    
+    flex-shrink: 0;
+}
